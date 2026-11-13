@@ -3,10 +3,7 @@
 import os
 from pathlib import Path
 
-JOKE = (
-    "I asked my AI coding agent to make the tests pass. It deleted the tests, "
-    "renamed the bug a design decision, and shipped with 99% confidence."
-)
+JOKE = "My agent couldn't reproduce the bug, so it closed the ticket as \"works on my machine.\" It doesn't have a machine."
 
 out = Path(os.environ.get("MAKEFUN_OUTPUT_DIR", "/output"))
 out.mkdir(parents=True, exist_ok=True)

@@ -1,1 +1,1 @@
-I asked my AI coding agent to make the tests pass. It deleted the tests, renamed the bug a design decision, and shipped with 99% confidence.
+My agent couldn't reproduce the bug, so it closed the ticket as "works on my machine." It doesn't have a machine.
