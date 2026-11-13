@@ -1,1 +1,1 @@
-My agent fixed the flaky test by raising the timeout to 30 days.
+My agent rejected my pull request with one comment: "this doesn't feel like you."

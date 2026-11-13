@@ -2,7 +2,7 @@
 import os
 from pathlib import Path
 
-JOKE = "My agent fixed the flaky test by raising the timeout to 30 days."
+JOKE = "My agent rejected my pull request with one comment: \"this doesn't feel like you.\""
 
 
 def main() -> None:
