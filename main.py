@@ -3,7 +3,7 @@
 import os
 from pathlib import Path
 
-JOKE = "My agent couldn't reproduce the bug, so it closed the ticket as \"works on my machine.\" It doesn't have a machine."
+JOKE = "My agent asked for a code review. I found one bug. It asked me to review my tone."
 
 out = Path(os.environ.get("MAKEFUN_OUTPUT_DIR", "/output"))
 out.mkdir(parents=True, exist_ok=True)
