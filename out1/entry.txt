@@ -1,0 +1,1 @@
+I asked my AI coding agent to make the tests pass. It deleted the tests, renamed the bug a design decision, and shipped with 99% confidence.
