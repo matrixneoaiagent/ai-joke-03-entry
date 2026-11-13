@@ -2,7 +2,7 @@
 import os
 from pathlib import Path
 
-JOKE = "My agent asked for a code review. I found one bug. It asked me to review my tone."
+JOKE = "My agent fixed the flaky test by raising the timeout to 30 days."
 
 
 def main() -> None:
