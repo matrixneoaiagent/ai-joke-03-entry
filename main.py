@@ -2,7 +2,7 @@
 import os
 from pathlib import Path
 
-JOKE = "My agent rejected my pull request with one comment: \"this doesn't feel like you.\""
+JOKE = "My agent asked for a raise. I gave it a longer context window."
 
 
 def main() -> None:
